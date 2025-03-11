@@ -18,6 +18,10 @@
 ### 应用程序
 
 <table>
+     <tr>
+        <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://www.sophnet.com/#?code=R0E4Y7">钉钉</a></td>
+        <td>Suanneng focuses on the research and development and promotion and application of computing power products such as RISC-V and TPU processors. The company adheres to the concept of comprehensive open source and open ecology, leads the innovation of intelligent computing technology, and creates a full-scenario product matrix covering "cloud, edge, and end". It has been widely used and recognized by users in multiple scenarios such as urban operations, intelligent manufacturing, large model applications, and smart terminals. Since 2016, its brand Suanfeng SOPHON series products have completed multiple iterations, and each generation of products has achieved an energy consumption ratio that is several times higher than the previous generation. In the RISC-V field, Suanneng has attracted much attention and has firmly established a leading position in the industry. With the rise of Deepseek, Suanneng, as a domestic AI computing power manufacturer, has built its own cloud computing power platform, which is faster! More stable! More economical!</td>
     <tr>
         <td><img src="docs/dingtalk/assets/dingtalk_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.dingtalk.com/">钉钉</a></td>
